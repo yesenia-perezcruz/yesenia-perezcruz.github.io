@@ -1,5 +1,5 @@
 ---
-lede: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur risus enim, laoreet ac tincidunt dictum, venenatis varius nibh. Quisque sollicitudin libero erat, vestibulum elementum elit posuere vel. In hac habitasse platea dictumst."
+lede: "Learn how to create purposeful design systems that support a range of brand expression."
 ---
 
 Curabitur nec quam erat. Vivamus ut varius enim. In hac habitasse platea dictumst. Suspendisse auctor quam ac bibendum consectetur. Nam nulla dolor, varius ut odio nec, elementum eleifend augue. Mauris et ex ut odio eleifend placerat at non nisi. Nulla quis facilisis ligula. Curabitur dapibus finibus dolor, eu feugiat lacus malesuada id. Maecenas convallis varius enim, eu convallis quam accumsan ac. Duis vel porta sapien, sit amet dapibus sapien. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod orci in elit pulvinar, eu volutpat lorem suscipit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nulla dapibus dignissim ligula vel cursus. Aliquam sit amet justo vel nulla cursus scelerisque ullamcorper at mi. Etiam cursus scelerisque fringilla.

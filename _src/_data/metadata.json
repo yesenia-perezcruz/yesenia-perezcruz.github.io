@@ -1,16 +1,16 @@
 {
-  "title": "Title of the Book",
+  "title": "Expressive Design Systems",
   "description": "Coming soon, from A Book Apart!",
   "cta": "Pre-orders open soon!",
   "url" : "http://book.teaser.url",
   "abaurl" : "https://abookapart.com/products/the-book-url",
   "author": {
-    "name": "Author Name",
-    "twitter": "@authorname"
+    "name": "Yesenia Perez-Cruz",
+    "twitter": "@yeseniaa"
   },
   "theme": {
-    "color" : "#aaaaaa",
-    "colordark" : "#555555",
+    "color" : "#F94A5C",
+    "colordark" : "#000000",
     "cover": "_assets/img/book-cover.png",
     "teaser": "_assets/img/book-tease.png"
   },

@@ -1,7 +1,7 @@
 ---
-name: Blurb Personname
-title: "Author of Other Book"
-site: http://wil.to
+name: Ethan Marcotte
+title: "Author of *Responsive Web Design*"
+site: https://ethanmarcotte.com/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi.
+Throughout her career, Yesenia Perez-Cruz has helped countless teams plan, design, and integrate truly impressive—and expressive—design systems into their products. It’s no surprise that her book is a delightfully comprehensive guide, helping ensure you and your team can do the same.

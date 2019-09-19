@@ -12,7 +12,7 @@
 	box-sizing: border-box;
 }
 figcaption,
-figure,
+Figure, f
 footer,
 header,
 hgroup,
@@ -349,9 +349,9 @@ body > .site-foot {
 }
 
 .site-head svg {
-	width: 100%;
-	max-width: 30em;
-	margin-top: .8em;
+	width: 90%;
+	max-width: 25em;
+	margin-top: .5em;
 }
 
 .byline {
@@ -429,18 +429,10 @@ body > .site-foot {
 }
 
 .blurbs blockquote {
-	padding: 0;
+	padding-bottom: 1.5em;
 	margin: 0;
 }
 
-.blurbs blockquote + blockquote:before {
-	content: "";
-	width: 25%;
-	height: 2px;
-	margin: 1.25em auto 1em auto;
-	display: block;
-	border-radius: 2px;
-}
 
 .site-foot a {
 	color: #fff;
@@ -453,7 +445,7 @@ body > .site-foot {
 .cta {
 	background: rgba(255,150,0, .05);
 	display: block;
-	padding: .65em 1em .45em 1em;
+	padding: .65em 1em .75em 1em;
 	width: 50%;
 	font-size: .85em;
 	min-width: 12.5em;

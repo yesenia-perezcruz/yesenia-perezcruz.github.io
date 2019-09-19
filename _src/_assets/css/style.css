@@ -349,6 +349,7 @@ body > .site-foot {
 }
 
 .site-head svg {
+	width: 100%;
 	max-width: 30em;
 	margin-top: .8em;
 }

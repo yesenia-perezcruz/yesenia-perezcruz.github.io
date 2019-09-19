@@ -42,6 +42,7 @@ svg {
 	height: auto;
 }
 
+
 a {
 	transition: color .1s linear, text-decoration-color .1s linear;
 }
@@ -377,14 +378,13 @@ body > .site-foot {
 @media( min-width: 65em ) {
 	.bio {
 		float: right;
-		max-width: 55%;
+		max-width: 50%;
 	}
 	.blurbs {
 		float: left;
-		max-width: 42.5%;
+		max-width: 42%;
 	}
 }
-
 
 .site-foot p {
 	line-height: 1.45;
